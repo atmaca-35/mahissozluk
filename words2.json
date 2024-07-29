@@ -1,0 +1,10 @@
+{
+    "örnek": {
+        "type": "isim",
+        "description": "Bu, örnek1 kelimesinin etimolojik açıklamasıdır."
+    },
+    "örnekcik": {
+        "type": "fiil",
+        "description": "Bu, örnek2 kelimesinin etimolojik açıklamasıdır."
+    }
+}
